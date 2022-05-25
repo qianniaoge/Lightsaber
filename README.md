@@ -26,3 +26,13 @@
 <img width="591" alt="image" src="https://user-images.githubusercontent.com/61389299/170188109-69c8a800-4f5a-45c2-9a1f-cdbf285b8d28.png">
 即可自动对文本内网址进行链接爬取端口扫描ip地址获取
 
+<img width="583" alt="image" src="https://user-images.githubusercontent.com/61389299/170188502-fb2f7027-aaf8-4853-ad19-24934421e1bf.png">
+参数 -name 即可设置保存文件名称
+<img width="1040" alt="image" src="https://user-images.githubusercontent.com/61389299/170188572-e09dddc5-f965-40e4-a781-4094c1cce00e.png">
+
+<img width="752" alt="image" src="https://user-images.githubusercontent.com/61389299/170188945-86cf7533-1fdc-451c-8373-9b4f6c48130e.png">
+<img width="1614" alt="image" src="https://user-images.githubusercontent.com/61389299/170188979-2d6aa3b4-ac48-4b85-baaf-59fd0e65e6b3.png">
+<img width="763" alt="image" src="https://user-images.githubusercontent.com/61389299/170189052-180ce184-b6c0-48a3-9521-7bf7f47990a9.png">
+
+最后的 -server 参数是在vps上操作的话会在vps上开启8080端口，即可通过ip:8080端口访问查看运行结果
+<img width="590" alt="WechatIMG12" src="https://user-images.githubusercontent.com/61389299/170189540-a0db85e9-ef07-4867-a746-78d1f0a575a6.png">
