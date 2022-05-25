@@ -21,7 +21,7 @@
 也可以直接指定内网ip地址直接进行端口扫描和弱口令探测
 
 <img width="176" alt="image" src="https://user-images.githubusercontent.com/61389299/170188000-807af22e-493f-4188-9fab-fa5b6e9715e8.png">
-编辑txt文本内容为
+编辑txt文本内容为 www.baidu.com 和 https://www.baidu.com/
 
 <img width="591" alt="image" src="https://user-images.githubusercontent.com/61389299/170188109-69c8a800-4f5a-45c2-9a1f-cdbf285b8d28.png">
 即可自动对文本内网址进行链接爬取端口扫描ip地址获取
