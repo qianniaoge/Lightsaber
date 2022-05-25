@@ -30,6 +30,9 @@
 参数 -name 即可设置保存文件名称
 <img width="1040" alt="image" src="https://user-images.githubusercontent.com/61389299/170188572-e09dddc5-f965-40e4-a781-4094c1cce00e.png">
 
+<img width="590" alt="image" src="https://user-images.githubusercontent.com/61389299/170191856-a8620103-d5d2-4923-9720-359071ec6abb.png">
+参数 -a=true 即可在链接爬取结束后进行POC验证工具为afrog
+
 <img width="752" alt="image" src="https://user-images.githubusercontent.com/61389299/170188945-86cf7533-1fdc-451c-8373-9b4f6c48130e.png">
 <img width="1614" alt="image" src="https://user-images.githubusercontent.com/61389299/170188979-2d6aa3b4-ac48-4b85-baaf-59fd0e65e6b3.png">
 <img width="763" alt="image" src="https://user-images.githubusercontent.com/61389299/170189052-180ce184-b6c0-48a3-9521-7bf7f47990a9.png">
